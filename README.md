@@ -31,8 +31,6 @@ Here are some ideas to get you started:-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/lightroom.html" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/2101px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png" alt="Lightroom" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/07/adobe-premier-logo.png" alt="premiere" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> 
   <img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/09/adobe-photoshop-logo-freelogovectors.net_.png" alt="photoshop" width="40" height="40"/> </a> </p>
 
