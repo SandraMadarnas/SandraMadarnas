@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandra Madarnas</h1>
 <h3 align="center">A Full Stack Developer in process from Spain</h3>
-
+<br><br>
 <!--<p align="left"> <img src="" /> </p>-->
 
 <!--
@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 🌱 I’m currently looking for **a new opportunity as a developer**<br>
 🌎 I love traveling<br>
 <br>
-📫 How to reach me **sandra.madarnas.1@gmail.com
+📫 How to reach me sandra.madarnas.1@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
