@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sandra Madarnas</h1>
 <h3 align="center">A Full Stack Developer in process from Spain</h3>
 <br><br>
-![](https://komarev.com/ghpvc/SandraMadarnas)
-<!--
-**SandraMadarnas/SandraMadarnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SandraMadarnas"> </p>
+<br><br>
+  <!--**SandraMadarnas/SandraMadarnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      Here are some ideas to get you started:-->
 
 ⚡ I am currently studying to be a Full Stack Developer at 4Geeks Academy.<br>
 🌱 I’m currently looking for **a new opportunity as a developer**<br>
