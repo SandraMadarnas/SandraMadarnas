@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sandra Madarnas</h1>
 <h3 align="center">A Full Stack Developer in process from Spain</h3>
-<br><br>
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SandraMadarnas&color=yellow&style=flat"> </p>
-<br><br>
+<br>
   <!--**SandraMadarnas/SandraMadarnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
       Here are some ideas to get you started:-->
 
