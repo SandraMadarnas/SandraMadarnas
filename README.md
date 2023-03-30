@@ -10,7 +10,7 @@
 <br>
   <!--**SandraMadarnas/SandraMadarnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
       Here are some ideas to get you started:-->
-🎓 Systems Engineer Graduate - Webmaster - Frontend Developer
+🎓 Systems Engineer Graduate - Webmaster - Frontend Developer<br>
 ⚡ I am currently studying to be a Full Stack Developer at 4Geeks Academy.<br>
 🌱 I’m currently looking for **a new opportunity as a developer**<br>
 🌎 I love traveling<br>
