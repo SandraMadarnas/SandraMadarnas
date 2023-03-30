@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sandra Madarnas</h1>
 <h3 align="center">A Full Stack Developer in process from Spain</h3>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SandraMadarnas&color=yellow&style=flat"> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SandraMadarnas&color=yellow&style=flat"> </p> -->
+<p align="right">
+	<img alt="sandra's visitors" src="https://komarev.com/ghpvc/?username=SandraMadarnas&color=8c36db&style=flat&label=visitors" />
+	<img alt="sandra's followers" src="https://img.shields.io/github/followers/SandraMadarnas?color=blueviolet" />
+	<img alt="sandra's stars" src="https://img.shields.io/github/stars/SandraMadarnas?color=blueviolet" />
+</p>
 <br>
   <!--**SandraMadarnas/SandraMadarnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
       Here are some ideas to get you started:-->
-
+🎓 Systems Engineer Graduate - Webmaster - Frontend Developer
 ⚡ I am currently studying to be a Full Stack Developer at 4Geeks Academy.<br>
 🌱 I’m currently looking for **a new opportunity as a developer**<br>
 🌎 I love traveling<br>
