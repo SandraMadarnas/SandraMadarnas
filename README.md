@@ -16,6 +16,11 @@
 	❇️ Actualmente estoy también trabajando en un proyecto como FrontEnd Developer Tech Lead para la empresa TMC ✳️
 	<br>
 </p>
+<div align="center" display="flex">
+  <a href="https://www.hackerrank.com/certificates/796312764c12">
+    <img width="30%" src="javascript_basic certificate.png" />
+  </a>
+</div>
 <p>
 	<br>
 	👌 Soy proactiva, organizada, responsable, sociable, creativa y detallista ✌️
