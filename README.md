@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sandra Madarnas</h1>
-<h3 align="center">A Full Stack Developer in process from Spain</h3>
+<h1 align="center">Hola 👋, soy Sandra Madarnas</h1>
+<h3 align="center">Ingeniero de Sistemas | Frontend Developer | Web Developer | Full Stack Developer en España <a href='https://emojitool.com/flag-for-spain'>🇪🇸</a></h3>
 <br>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SandraMadarnas&color=yellow&style=flat"> </p> -->
 <p align="right">
