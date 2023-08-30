@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hola 👋, soy Sandra Madarnas ✨</h1>
-<h3 align="center">Ingeniero de Sistemas | Frontend Developer | Web Developer | Full Stack Developer en España</h3>
+<h3 align="center">👨‍💻 Ingeniero de Sistemas | Frontend Developer | Web Developer | Full Stack Developer en España 👨‍💻</h3>
 <hr><br>
 <p align="right">
 	<img alt="sandra's visitors" src="https://komarev.com/ghpvc/?username=SandraMadarnas&color=8c36db&style=flat&label=visitors" />
