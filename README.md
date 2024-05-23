@@ -13,7 +13,7 @@
 	<br>
 	✔️ Actualmente soy Full Stack Developer | Teacher Assistant en 4Geeks Academy ✔️
 	<br>
-	❇️ Actualmente estoy también trabajando en un proyecto como FrontEnd Developer Tech Lead para la empresa TMC ✳️
+	❇️ Actualmente estoy también trabajando en un proyecto como FrontEnd Developer Tech Lead en TMC para la empresa: Pluxee ✳️
 	<br>
 </p>
 <div align="center" display="flex">
